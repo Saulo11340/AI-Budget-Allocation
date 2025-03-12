@@ -10,8 +10,6 @@ This project implements a machine learning and Bayesian optimization framework f
 - **Validation:** Uses K-Fold cross-validation and performance metrics (MSE, R², Adjusted R²) to assess model accuracy.
 - **Visualization:** Generates comparison plots between actual and predicted values, learning curves, and optimized allocation distributions.
 
-```
-
 ## Usage
 ### 1. Train the Model
 Run the script to preprocess data, generate synthetic observations, and train the XGBoost model:
